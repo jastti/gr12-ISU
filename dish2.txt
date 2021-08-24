@@ -1,0 +1,9 @@
+006, Kebab, BBQ, 16.0
+5, Cupcake, Dessert, 6.0
+004, Baguette, Bread, 7.5
+4, Baguette, Bread, 7.5
+003, Donut, Dessert, 3.0
+3, Donut, Dessert, 3.0
+002, Udon, Noodle, 12.0
+2, Udon, Noodle, 12.0
+1, Hamburger, Fast food, 6.5

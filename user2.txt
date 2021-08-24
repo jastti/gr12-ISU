@@ -1,0 +1,6 @@
+1006, Alice, 100Mainst, 1234567
+1005, Emily, 7524 16Ave, 6479876543
+1004, Daisy, 50 Markville Rd, 6471112223
+1003, Cindy, 300 Yonge St, 6471122334
+1002, Betty, 1000 Carlton Rd, 6477654321
+1001, Ada, 3700 Highway7, 6471234567
